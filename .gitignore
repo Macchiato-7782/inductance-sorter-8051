@@ -1,0 +1,46 @@
+._*
+.DS_Store
+Thumbs.db
+
+# Keil / IAR / IDE user files
+*.uvgui
+*.uvgui.*
+*.uvopt
+*.uvoptx
+*.workspace
+*.ewt
+*.ewd
+*.dep
+
+# Build outputs
+Objects/*
+!Objects/*.hex
+Listings/
+Debug/
+Release/
+*.o
+*.obj
+*.OMF
+*.lst
+*.m51
+*.lnp
+*.plg
+*.map
+*.elf
+*.axf
+*.crf
+*.d
+
+# Proteus backups
+*.pdsbak
+*.DBK
+*.PWI
+*.workspace
+Project Backups/
+Last Loaded *
+
+# Misc
+*.bak
+*.Bak
+*.tmp
+*~
