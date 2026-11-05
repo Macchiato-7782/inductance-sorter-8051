@@ -30,6 +30,13 @@ Release/
 *.axf
 *.crf
 *.d
+*.rel
+*.ihx
+*.asm
+*.sym
+*.mem
+*.lk
+*.rst
 
 # Proteus backups
 *.pdsbak
